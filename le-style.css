@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+.navbar {
+    overflow: auto;
+    background-color: white;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li {
+    float: right;
+}
+
+.navbar li a {
+    display: block;
+}
